@@ -1,0 +1,139 @@
+!DOCTYPE html>
+<html lang="nl">
+
+
+
+
+<head>
+    <h1>Online CV</h1>
+    <link rel="icon" type="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\favicon.ico" href="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\favicon.ico">
+</head>  
+
+
+<body background="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\joanna-kosinska-1_CMoFsPfso-unsplash.jpg"
+    <h1>MIJN ONLINE CV</h1>
+    <h2>Beschikbare paginas</h1>
+    <p>><a href=Start.html>-Start(index)</a></p>
+    <hr>
+    <p>><a href=Curriculum.html>-Curricum Vitea</a></p>
+    <hr>
+    <p>><a href=Ervaring.html>-Ervaring</a></p>
+    <hr>
+    <p>><a href=hobbys.html>-hobby's / interesses</a></p>
+    <hr>
+    <p>><a href=contact.html>-Contact</a></p>
+
+<br>
+<br>
+<br>
+<h1>Start</h1>
+<h2>Informatie over mezelf:</h2>
+
+<p>Voornaam: Marley</p>
+<p>Achternaam: Van der Zanden</p>
+<p>Leeftijd: 19 jaar</p>
+<p>Studies: Administratie, Verkoop, Systeem & Netwerkbeheer</p>
+<p>Interesses en Hobby's: Ik hou veel van gamen en nieuwe IT snufjes te ontdekken ook ga ik graag is wat drinken.</p>
+<p>Sterke punten: Ik laat mijn mening horen en probeer overal een oplossing voor te zoeken, Ik denk goed out-of-the-box.</p>
+<p>Min punten: Dyslexie, Verwoord sommige dingen moeilijk.</p>
+<br>
+<br>
+<br>
+<h1>Curriculum Vitae</h1>
+<embed src="VanderZandenMarley_CV.pdf" type="application/pdf" width="100%" height="600px" />
+<br>
+<br>
+<br>
+<h1>Ervaring</h1>
+<p>Jobstudent Mediamarkt Antwerpen</p>
+<p>Jobstudent Lidl </p>
+<p>Jobstudent Colruyt balen</p>
+<p>Jobstudent Sunpark Horeca</p>
+<p>Eigen webshop</p>
+<br>
+<br>
+<br>
+<h1>Hobby's & interesses</h1>
+<p>Hobby's:
+<br>
+-Gamen (Rainbow six siege)
+<br>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\Rb6.jfif" alt="Foto van het spel Rainbow six siege">
+<br>
+<p style="background-color: blanchedalmond;">Ik speel dit spel al bijna 4 jaar lang en vind het net zo leuk als eerst, Hierin speel je 5vs5 in een gebouw.
+    1 team met 5 spelers moet het gebouw beschermen of aanvallen om een bom te kunnen planten of het andere team uitteschakelen met je wapen of gagets.
+    Hierin is ook een tournement waar veel geld valt te verdienen met je team als je echt goed bent en dit zou me ook heel leuk lijken maar is nog wat te moeilijk.
+</p>
+<br>
+-Cafe
+<br>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\Cafe.jfif" alt="Foto van Cafe De Kroon Lommel">
+<br>
+<p style="background-color: blanchedalmond;">Ik ga heel erg graag uit en drink mijn biertje's' altijd op, Lommel centrum is zo de plek waar ik het meest in het weekend ben als het niet werken is.
+    Er is toch niks beter om met je vriendin naar het onderwerp te gaan (een restaurant in lommel) en daarna goed op de zuip te gaan zonder ruzie's ;)</p>
+<br>
+-Werken
+<br>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\Sunparks.jfif" alt="Foto van sunparks Mol">
+<br>
+<p style="background-color: blanchedalmond;">Ik wel momenteel bij sunparks Mol in de horeca waar is de lekkerste burgers en frieten maar voor mijn klanten, Ik doe dit werk graag maar soms kan het ook heel chaotish zijn.
+    De meeste zijn fransen dus ik ken een paar woordjes maar dit is toch nog wel moeilijk.
+    Ik heb gelukkig wel geen probleem met mijn nederlandse klanten of nederlandssprekend.
+
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="background-color: red;">Crypto is ook een hobby maar dit gaat slecht</p>
+<br>
+<br>
+<br>
+<h1>Contact</h1>
+<hr>
+<a href="https://outlook.live.com/owa/">Mail</a>
+<p>Mijn mail adres is: M.v.d.zanden@outlook.com</p>
+
+<H2>Formulier</H2>
+
+    <h1>Stel uw vraag hier.</h1>
+
+    <form action="verzenden.php" method="POST">
+        <div><label for="naam">Naam: <input type="text" id="naam" name="naam" required></label>
+        </div>
+
+        <div><label for="email">Email: <input type="email" id="email" name="email" required></label>
+        </div>
+
+        <div><label for="Informatie">Informatie: <textarea rows="5" id="Informatie" name="Informatie"></textarea></label>
+        </div>
+
+        <div>
+            <fieldset>
+                <legend>Geslacht</legend>
+                <div>
+                    <label for="male">Male
+                    <input type="radio" id="male" name="gender" value="male"></label>
+
+                    <label for="female">Female
+                    <input type="radio" id="female" name="gender" value="female"></label>
+
+                </div>
+            </fieldset>
+        </div>
+
+        <div>
+            <label for="opdehoogtehouden">Hou me op de hoogte:
+            <input type="checkbox" value="yes" id="opdehoogtehouden" name="opdehoogtehouden"></label>
+        </div>
+
+        <div>
+            <input type="submit" value="Indienen">
+        </div>
+    </form>
+
+
+
+</html>
+--->
