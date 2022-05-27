@@ -1,0 +1,190 @@
+<html lang="nl">
+
+
+
+
+<head>
+    <a href="Start.html">
+        <center><img alt="Marley" src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\marley.png"
+        width=150" height="70">
+    </center>
+     </a>
+     <h1>
+        <center>START PAGE</center>    
+    </h1> 
+        
+    <link rel="icon" type="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\favicon.ico" href="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\IT Topics 2\favicon.ico">
+
+</head>  
+
+
+<body background="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\background-site.jpg"
+    
+    <h1>Beschikbare paginas</h1>
+    <p>><a href=Start.html>-Start(index)</a></p>
+    <hr>
+    <p>><a href=Curriculum.html>-Curricum Vitea</a></p>
+    <hr>
+    <p>><a href=Ervaring.html>-Ervaring</a></p>
+    <hr>
+    <p>><a href=hobbys.html>-hobby's / interesses</a></p>
+    <hr>
+    <a href="contact.html">
+    <center> <img alt="Contact" src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\contact.button.png"
+        width=180" height="100"></a> </center>   
+<br>
+<br>
+<br>
+<h1><center>Start</center></h1>
+<h2><center>Informatie over mezelf:</center></h2>
+
+<p><center>Voornaam: Marley</p>
+<p>Achternaam: Van der Zanden</p>
+<p>Leeftijd: 19 jaar</p>
+<p>Studies: Administratie, Verkoop, Systeem & Netwerkbeheer</p>
+<p>Interesses en Hobby's: Ik hou veel van gamen en nieuwe IT snufjes te ontdekken ook ga ik graag is wat drinken.</p>
+<p>Sterke punten: Ik laat mijn mening horen en probeer overal een oplossing voor te zoeken, Ik denk goed out-of-the-box.</p>
+<p>Min punten: Dyslexie, Verwoord sommige dingen moeilijk.</center></p>
+<br>
+<br>
+<br>
+<h1>
+    <center>Curriculum Vitae </center>
+    </h1>
+<embed src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\vendor\VanderZandenMarley_CV.pdf" type="application/pdf" width="100%" height="600px" />
+
+<h1><center>skills</center></h1>
+ <div class="column">
+     <center>
+
+      <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\html logo.png" alt="Html logo"  width=180" height="100">
+    </div>
+    <div class="column">
+        <center>
+      <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\Linux-Logo.png" alt="Linux logo"  width=180" height="100">
+    </div>
+    <div class="column">
+        <center>
+      <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\PowerShell_5.0_icon.png" alt="Powershell logo"  width=180" height="100">
+    </div>
+    <center>
+
+        <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\python logo.png" alt="python logo"  width=180" height="100">
+      </div>
+      <div class="column">
+          <center>
+        <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\sql logo.jpg" alt="SQL logo"  width=180" height="100">
+      </div>
+      <div class="column">
+          <center>
+        <img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\vs logo.png" alt="Visual Studio logo"  width=180" height="100">
+      </div>
+  </div>
+
+<br>
+<br>
+<h1><center>Ervaring </center></h1>
+<p><center>Jobstudent Mediamarkt Antwerpen</p>
+<p>Jobstudent Lidl </p>
+<p>Jobstudent Colruyt balen</p>
+<p>Jobstudent Sunpark Horeca</p>
+<p>Eigen webshop</center></p> 
+<br>
+<br>
+<br>
+<h1><center>Hobby's & interesses </center></h1>
+<br>
+<center><font size="+2">-Gamen (Rainbow six siege)</font> </center>
+<br>
+<center>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\r6.jpg" alt="Foto van het spel Rainbow six siege"
+width=500" height="280"></center>
+<br>
+<p style="background-color: blanchedalmond;">Ik speel dit spel al bijna 4 jaar lang en vind het net zo leuk als eerst, Hierin speel je 5vs5 in een gebouw.
+    1 team met 5 spelers moet het gebouw beschermen of aanvallen om een bom te kunnen planten of het andere team uitteschakelen met je wapen of gagets.
+    Hierin is ook een tournement waar veel geld valt te verdienen met je team als je echt goed bent en dit zou me ook heel leuk lijken maar is nog wat te moeilijk.
+</p>
+<br>
+<center><font size="+2">-Cafe </font> </center>
+<br><center>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\cafe.jpg" alt="Foto van Cafe De Kroon Lommel" width=500" height="280">
+<br></center>
+<p style="background-color: blanchedalmond;">Ik ga heel erg graag uit en drink mijn biertje's' altijd op, Lommel centrum is zo de plek waar ik het meest in het weekend ben als het niet werken is.
+    Er is toch niks beter om met je vriendin naar het onderwerp te gaan (een restaurant in lommel) en daarna goed op de zuip te gaan zonder ruzie's ;)</p>
+<br>
+<center><font size="+2">-Werken </font> </center>
+<br><center>
+<img src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\park.jpg" alt="Foto van sunparks Mol" width=500" height="280">
+<br></center>
+<p style="background-color: blanchedalmond;">Ik wel momenteel bij sunparks Mol in de horeca waar is de lekkerste burgers en frieten maar voor mijn klanten, Ik doe dit werk graag maar soms kan het ook heel chaotish zijn.
+    De meeste zijn fransen dus ik ken een paar woordjes maar dit is toch nog wel moeilijk.
+    Ik heb gelukkig wel geen probleem met mijn nederlandse klanten of nederlandssprekend.
+
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1> <center>Contact Page</center></h1>
+<hr>
+<center>
+<a href="https://outlook.live.com/owa/">Mail</a>
+<p>Mijn mail adres is: M.v.d.zanden@outlook.com </center></p>
+
+<H2><center>Formulier</center></H2>
+
+    <h1><center>Stel uw vraag hier.</center></h1>
+
+    <form action="verzenden.php" method="POST">
+    <center>
+        <div><label for="naam">Naam: <input type="text" id="naam" name="naam" required></label>
+        </div>
+
+        <div><label for="email">Email: <input type="email" id="email" name="email" required></label>
+        </div>
+
+        <div><label for="Informatie">Informatie: <textarea rows="5" id="Informatie" name="Informatie"></textarea></label>
+        </div>
+
+        <div>
+            <fieldset>
+                <legend><center>Geslacht </center></legend>
+                <div>
+                    <label for="male">Male
+                    <input type="radio" id="male" name="gender" value="male"></label>
+
+                    <label for="female">Female
+                    <input type="radio" id="female" name="gender" value="female"></label>
+
+                </div>
+            </fieldset>
+        </div>
+
+        <div>
+            <label for="opdehoogtehouden">Hou me op de hoogte:
+            <input type="checkbox" value="yes" id="opdehoogtehouden" name="opdehoogtehouden"></label>
+        </div>
+
+        <div>
+            <input type="submit" value="Indienen">
+        </div>
+    </center>
+    </form>
+
+
+
+    <center><a href="https://www.instagram.com/">
+        <img alt="Instagram" src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\insta.webp"
+        width=90" height="50"></a>
+        <a href="https://www.facebook.com/">
+        <img alt="Facebook" src="C:\Users\mvdza\OneDrive\Bureaublad\Cursus Scripting\Project2\images\fb.png"
+        width=90" height="50"></a>
+    </center>
+
+
+</html>
+--->
